@@ -1,0 +1,47 @@
+body{
+    color: black;
+    background-color: bisque;
+}
+
+.h1{
+    font-size: 24px;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+
+div{
+    display: inline-flex;
+    position: absolute;
+    margin: 5px;
+}
+
+#d1{
+    background-color: aquamarine;
+    margin-left: 5%;
+    width: 400px;
+    height: 500px;
+}
+
+#d2{
+    background-color: aqua;
+    margin-left: 45%;
+    width: 400px;
+    height: 500px;
+
+}
+
+.knopf{
+    padding: 10px 15px;
+    margin: 5%;
+    text-align: center;
+    cursor: pointer;
+    
+}
+
+#spanner {
+    position: fixed;
+    height: auto;
+    width: auto;
+    padding: 6px;
+    background-color: #39b1e0a4;
+}
